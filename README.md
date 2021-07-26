@@ -1,5 +1,6 @@
 # Ion-trap-simulation
 A simulation of a particle in an idealized Penning and Paul trap.
+This is part of the CERN summer project.
 
 # Penning trap simulation
 ![alt text](https://github.com/Ahmed-alkharusi/Ion-trap-simulation/blob/main/new%20correct.png)
