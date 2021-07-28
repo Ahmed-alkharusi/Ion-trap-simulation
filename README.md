@@ -11,3 +11,5 @@ This is part of the CERN summer project.
 ![alt text](https://github.com/Ahmed-alkharusi/Ion-trap-simulation/blob/main/simulation2.png)
 ![alt text](https://github.com/Ahmed-alkharusi/Ion-trap-simulation/blob/main/simulation3.png)
 
+# Demonstration of Earnshaw's theorem
+![alt text](https://github.com/Ahmed-alkharusi/Ion-trap-simulation/blob/main/588.png)
