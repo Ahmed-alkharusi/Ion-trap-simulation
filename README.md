@@ -1,3 +1,5 @@
+# Project report
+https://cds.cern.ch/record/2779403
 # Ion-trap-simulation
 A simulation of a particle in an idealized Penning and Paul trap.
 This is part of the CERN summer project.
