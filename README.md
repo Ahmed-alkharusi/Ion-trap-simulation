@@ -1,5 +1,7 @@
 # Project report
+This code is part of a summer project. For more detials see:
 https://cds.cern.ch/record/2779403
+In particular, the codes are described in sec 2.4.
 # Ion-trap-simulation
 A simulation of a particle in an idealized Penning and Paul trap.
 This is part of the CERN summer project.
